@@ -1,1 +1,1 @@
-# newsWeekClon
+# newsWeekClone
