@@ -52,7 +52,7 @@
   color: rgba(3, 3, 3, 0.4);
   font-family: "Roboto Condensed", sans-serif;
   font-size: 16px;
-  font-stretch: 100%;
+  font-stretch: normal;
   font-style: normal;
   font-variant-caps: normal;
   font-variant-east-asian: normal;
@@ -92,7 +92,7 @@
 .customText1 {
   font-family: "Roboto Condensed", sans-serif;
   font-size: 16px;
-  font-stretch: 100%;
+  font-stretch: normal;
   font-style: normal;
   font-variant-caps: normal;
   font-variant-east-asian: normal;
@@ -147,7 +147,7 @@
   color: #f72210;
   font-family: "Roboto Condensed", sans-serif;
   font-size: 16px;
-  font-stretch: 100%;
+  font-stretch: normal;
   font-style: normal;
   font-variant-caps: normal;
   font-variant-east-asian: normal;
