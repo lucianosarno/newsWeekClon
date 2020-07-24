@@ -65,13 +65,17 @@
 
 .customCategoryTitleA {
   color: #f72210;
-  line-height: 1.5;
+  line-height: 2rem;
   z-index: 999;
 }
 
 .customCategoryTitleDiv {
+  width: max-content;
+  padding: 0 20px;
   text-align: center;
   background-color: rgba(255, 255, 255, 0.9);
+  height: 2rem;
+  margin-top: -40px;
 }
 
 .customArticleTitle {
@@ -177,10 +181,14 @@
 }
 
 .customText4 {
+  box-sizing: border-box;
   color: rgb(102, 102, 102);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 700;
   height: auto;
   line-height: 24px;
+}
+.customFooterSocialNav {
+  width: max-content;
 }
