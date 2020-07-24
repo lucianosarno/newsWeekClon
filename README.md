@@ -13,7 +13,7 @@ In this task we were required to create a responsive clone of NewsWeek website u
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/carlos-ssh/newsweek/f445e12eb690b2de6c6843bb6fc95df5421fc8b4/index.html)
+[Live Demo Link](https://rawcdn.githack.com/lucianosarno/newsWeekClon/f9a3ae14ea401c79c5dac801924a63cb229bce96/index.html)
 
 ## Authors
 
