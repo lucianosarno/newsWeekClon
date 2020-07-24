@@ -2,7 +2,7 @@
 
 > Luciano and Carlos 7th project in HTML&CSS3 module.
 
-![screenshot](/resources/screenshot.png)
+![screenshot](images/screenshot.png)
 
 In this task we were required to create a responsive clone of NewsWeek website using bootstrap.
 
