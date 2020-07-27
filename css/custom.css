@@ -196,3 +196,13 @@
 .customFooterSocialNav {
   width: max-content;
 }
+.customLinkSubscribe {
+  background-color: #f72210;
+  color: white;
+  border: 0;
+  width: 150px;
+  height: 40px;
+}
+.customCloudImg {
+  width: 15%;
+}
