@@ -124,6 +124,7 @@
   color: black;
   border-right: 1px solid #d9d9d9;
   width: max-content;
+  flex-grow: 1;
 }
 
 .customLgMenu::after {
@@ -188,6 +189,7 @@
   font-weight: 700;
   height: auto;
   line-height: 24px;
+  width: min-content;
 }
 .customFooterSocialNav {
   width: max-content;
